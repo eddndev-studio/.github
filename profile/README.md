@@ -15,14 +15,6 @@ trabajo a medida — del backend al pixel — con foco en arquitectura, rendimie
 - **Ataúlfo** — orquestación de bots de WhatsApp con automatización IA y multitenancy.
   [backend](https://github.com/eddndev-studio/ataulfo-go) ·
   [app](https://github.com/eddndev-studio/ataulfo-app)
-- **EddnBot** — automatización de WhatsApp con IA, multi-tenant.
-  [eddnbot](https://github.com/eddndev-studio/eddnbot)
-- **DEMS** — plataforma de evaluación de prototipos (IPN-DEMS): API Rust/Axum + app Flutter
-  offline-first. [dems](https://github.com/eddndev-studio/dems)
-- **Ábaco** — sistema de contabilidad (Axum + SvelteKit).
-  [abaco](https://github.com/eddndev-studio/abaco)
-- **Qadra** — SaaS de servicios profesionales: presupuestos, capacidad y facturación
-  (Laravel/Livewire). [qadra](https://github.com/eddndev-studio/qadra)
 
 ### Sitios
 - [eddndev.com](https://github.com/eddndev-studio/eddndev.com) — sitio profesional (Laravel · Tailwind · GSAP)
